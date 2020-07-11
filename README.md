@@ -1,3 +1,3 @@
 # Drum-Kit
 
-OPEN.PLAY 😁
+OPEN 'N' PLAY 😁
